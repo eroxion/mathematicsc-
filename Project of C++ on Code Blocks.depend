@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1530836576 source:c:\users\anugreg\desktop\coding\projects of c++\project of c++ on code blocks\main.cpp
+	<iostream>
+	<cmath>
+
+1530893776 source:m:\coding\projects of c++\project of c++ on code blocks\main.cpp
+	<iostream>
+	<cmath>
+
+1531240630 source:c:\users\anugreg\desktop\project of c++ on code blocks\main.cpp
+	<iostream>
+	<cmath>
+	<string>
+	<windows.h>
+
